@@ -1,0 +1,86 @@
+[
+    {
+        "id" : 1,
+        "title" : "Python Programming",
+        "owner" : "Avinash Jain",
+        "rating" : "4.3",
+        "price" : "$13:99"
+    },
+    {
+        "id" : 2,
+        "title" : "SQL Bootcamp",
+        "owner" : "Jose Portilla",
+        "rating" : "4.7",
+        "price" : "$15:99"
+    },
+    {
+        "id" : 3,
+        "title" : "Master Bootstrap",
+        "owner" : "Jeppe Jenson",
+        "rating" : "4.6",
+        "price" : "$11:99"
+    },
+    {
+        "id" : 4,
+        "title" : "Wordpress Developer",
+        "owner" : "Brad Schiff",
+        "rating" : "4.8",
+        "price" : "$23:99"
+    },
+    {
+        "id" : 5,
+        "title" : "Beginning Laravel 9",
+        "owner" : "Steve Jain",
+        "rating" : "4.7",
+        "price" : "$12:99"
+    },
+    {
+        "id" : 6,
+        "title" : "Complete Vue Guide",
+        "owner" : "Maximilian Jose",
+        "rating" : "4.2",
+        "price" : "$12:98"
+    },
+    {
+        "id" : 7,
+        "title" : "NodeJS Guide",
+        "owner" : "Acade mind",
+        "rating" : "4.9",
+        "price" : "$18:99"
+    },
+    {
+        "id" : 8,
+        "title" : "React Developers",
+        "owner" : "Andrei Neagoei",
+        "rating" : "5.0",
+        "price" : "$19:99"
+    },
+    {
+        "id" : 9,
+        "title" : "Complete NEXT.js",
+        "owner" : "Jain Bae",
+        "rating" : "4.7",
+        "price" : "$18:99"
+    },
+    {
+        "id" : 10,
+        "title" : "Modern Angular",
+        "owner" : "Angular University",
+        "rating" : "4.4",
+        "price" : "$12:99"
+    },
+    {
+        "id" : 11,
+        "title" : "Learning HTML",
+        "owner" : "Colt Steele",
+        "rating" : "4.9",
+        "price" : "$12:99"
+    },
+    {
+        "id" : 12,
+        "title" : "PHP For Beginners",
+        "owner" : "Edwin Diaz",
+        "rating" : "4.7",
+        "price" : "$12:99"
+    }
+]
