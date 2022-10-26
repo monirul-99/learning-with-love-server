@@ -10,3 +10,7 @@ const data = require("./Data/courseData.json");
 app.get("/", (req, res) => {
   res.send(data);
 });
+
+app.listen(port, () => {
+  console.log(`Running Post :" ${port}`);
+});
